@@ -1,0 +1,8 @@
+Uncaught java.lang.Error exception in thread "main" in a method Quiz.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	Incompatible operand types int and String
+	X cannot be resolved
+	X cannot be resolved
+	X cannot be resolved
+
+	at Quiz.main(Quiz.java:14) [file:/home/alumno/Quiz%20de%20Progrmacion/bin/Quiz.class]
